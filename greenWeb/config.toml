@@ -1,0 +1,41 @@
+baseurl = "https://example.org"
+languageCode = "de-de"
+title = "greenWeb"
+theme = "hugo-lithium-theme-master"
+googleAnalytics = ""
+disqusShortname = ""
+disableKinds = ["taxonomy", "taxonomyTerm", "section", "404"]
+
+[permalinks]
+    post = "/:year/:month/:day/:title/"
+    page = "/:title/"
+    
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+[[menu.main]]
+    name = "Studies"
+    url = "/studies/"
+[[menu.main]]
+    name = "Impressum"
+    url = "/impressum/"
+
+
+[params]
+    mainSections = ["post"]
+
+    description = ""
+
+    # path to the favicon, under "static"
+    favicon = "favicon.ico"
+
+    [params.logo]
+    url = "logo.png"
+    width = 50
+    height = 50
+    alt = "Logo"
+
+    [params.icon]
+    url = "favicon.ico"
+
