@@ -1,4 +1,5 @@
-baseurl = "https://example.org"
+baseurl = "/"
+relativeURLs = true
 languageCode = "de-de"
 title = "greenWeb"
 theme = "hugo-lithium-theme-master"

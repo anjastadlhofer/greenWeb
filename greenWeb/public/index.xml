@@ -2,48 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>greenWeb</title>
-    <link>https://example.org/</link>
+    <link>/</link>
     <description>Recent content on greenWeb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 24 Oct 2019 13:54:04 +0200</lastBuildDate>
     
-	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mein Erster Beitrag</title>
-      <link>https://example.org/2019/10/24/mein-erster-beitrag/</link>
+      <link>/2019/10/24/mein-erster-beitrag/</link>
       <pubDate>Thu, 24 Oct 2019 13:54:04 +0200</pubDate>
       
-      <guid>https://example.org/2019/10/24/mein-erster-beitrag/</guid>
+      <guid>/2019/10/24/mein-erster-beitrag/</guid>
       <description>Mein erster Beitrag test</description>
     </item>
     
     <item>
       <title>Hello</title>
-      <link>https://example.org/2016/05/05/hello/</link>
+      <link>/2016/05/05/hello/</link>
       <pubDate>Thu, 05 May 2016 21:49:57 -0700</pubDate>
       
-      <guid>https://example.org/2016/05/05/hello/</guid>
+      <guid>/2016/05/05/hello/</guid>
       <description>Hello World!</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://example.org/about/</link>
+      <link>/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>https://example.org/about/</guid>
+      <guid>/about/</guid>
       <description>This is team greenWeb! Our project is the best!</description>
     </item>
     
     <item>
-      <title>Studies</title>
-      <link>https://example.org/studies/</link>
+      <title>Impressum</title>
+      <link>/impressum/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>https://example.org/studies/</guid>
+      <guid>/impressum/</guid>
+      <description>This is us Hello new GIT Setup</description>
+    </item>
+    
+    <item>
+      <title>Studies</title>
+      <link>/studies/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/studies/</guid>
       <description>studies! Our project is the best!</description>
     </item>
     
