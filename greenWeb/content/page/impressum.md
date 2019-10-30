@@ -8,4 +8,6 @@ title = "Impressum"
 
 Hello new GIT Setup
 
+![Alt-Beispieltext](/images/logo.png)
+
 
