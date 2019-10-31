@@ -37,3 +37,5 @@ fields:
     max: 
   description: this is the description
   hidden: true
+pages:
+- greenWeb/content/page/keyFindings.md
