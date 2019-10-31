@@ -1,6 +1,6 @@
 ---
 title: "Company Scorecard"
-date: 2019-10-24T13:54:04+02:00
+date: 2019-09-30T13:54:04+02:00
 draft: false
 description: "Company Scorecard"
 ---
