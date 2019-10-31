@@ -45,10 +45,13 @@ fields:
 
 ---
 
-# This is us
+# The primary function of this site is for testing purposes.
 
-Hello new GIT Setup
+This site was generated as part of the BÜPA   
+FH Joanneum  
+Team GreenWeb:  
+Julia Gruber, Lukas Reitbauer, Anja Stadlhofer, Christoph Tripolt
 
-![Alt-Beispieltext](/images/santascanvas.jpg)
+![Alt-Beispieltext](/images/fh_logo.jpg)
 
 

@@ -16,11 +16,11 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section", "404"]
     name = "About"
     url = "/about/"
 [[menu.main]]
-    name = "Studies"
-    url = "/studies/"
-[[menu.main]]
     name = "Impressum"
     url = "/impressum/"
+[[menu.main]]
+    name = "Key findings"
+    url = "/key findings/"
 
 
 [params]

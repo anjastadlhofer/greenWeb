@@ -45,16 +45,19 @@ from your forestry.io</description>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>/impressum/</guid>
-      <description>This is us Hello new GIT Setup</description>
+      <description>The primary function of this site is for testing purposes. This site was generated as part of the BÜPA
+FH Joanneum
+Team GreenWeb:
+Julia Gruber, Lukas Reitbauer, Anja Stadlhofer, Christoph Tripolt</description>
     </item>
     
     <item>
-      <title>Studies</title>
-      <link>/studies/</link>
+      <title>Key findings</title>
+      <link>/key-findings/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>/studies/</guid>
-      <description>studies! Our project is the best!</description>
+      <guid>/key-findings/</guid>
+      <description>Here are the key findings of the study! l Apple retains its leadership spot for the third year in a row among platform operators. Both Apple and Google continue to lead the sector in matching their growth with an equivalent or larger supply of renewable energy, and both companies continue to use their influence to push governments as well as their utility and IT sector vendors to increase access to renewable energy for their operations.</description>
     </item>
     
   </channel>
