@@ -6,28 +6,90 @@
     <description>Recent content on greenWeb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 24 Oct 2019 13:54:04 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2019 13:54:04 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Mein Erster Beitrag</title>
-      <link>/2019/10/24/mein-erster-beitrag/</link>
+      <title>Search</title>
+      <link>/2019/10/30/search/</link>
+      <pubDate>Wed, 30 Oct 2019 13:54:04 +0200</pubDate>
+      
+      <guid>/2019/10/30/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Streaming</title>
+      <link>/2019/10/30/video-streaming/</link>
+      <pubDate>Wed, 30 Oct 2019 13:54:04 +0200</pubDate>
+      
+      <guid>/2019/10/30/video-streaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music Streaming</title>
+      <link>/2019/10/25/music-streaming/</link>
+      <pubDate>Fri, 25 Oct 2019 13:54:04 +0200</pubDate>
+      
+      <guid>/2019/10/25/music-streaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Media</title>
+      <link>/2019/10/24/social-media/</link>
       <pubDate>Thu, 24 Oct 2019 13:54:04 +0200</pubDate>
       
-      <guid>/2019/10/24/mein-erster-beitrag/</guid>
-      <description>Mein erster Beitrag test</description>
+      <guid>/2019/10/24/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Messaging</title>
+      <link>/2019/10/20/messaging/</link>
+      <pubDate>Sun, 20 Oct 2019 13:54:04 +0200</pubDate>
+      
+      <guid>/2019/10/20/messaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eCommerce</title>
+      <link>/2019/10/19/ecommerce/</link>
+      <pubDate>Sat, 19 Oct 2019 13:54:04 +0200</pubDate>
+      
+      <guid>/2019/10/19/ecommerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blogs</title>
+      <link>/2019/10/17/blogs/</link>
+      <pubDate>Thu, 17 Oct 2019 13:54:04 +0200</pubDate>
+      
+      <guid>/2019/10/17/blogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Company Scorecard</title>
+      <link>/2019/09/30/company-scorecard/</link>
+      <pubDate>Mon, 30 Sep 2019 13:54:04 +0200</pubDate>
+      
+      <guid>/2019/09/30/company-scorecard/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Hello</title>
-      <link>/2016/05/05/hello/</link>
-      <pubDate>Thu, 05 May 2016 21:49:57 -0700</pubDate>
+      <link>/2019/08/05/hello/</link>
+      <pubDate>Mon, 05 Aug 2019 21:49:57 -0700</pubDate>
       
-      <guid>/2016/05/05/hello/</guid>
-      <description>Hello World!
-from your forestry.io</description>
+      <guid>/2019/08/05/hello/</guid>
+      <description>Hello World!</description>
     </item>
     
     <item>

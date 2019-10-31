@@ -17,6 +17,75 @@
     {{ end }}
   </div>
 
+
+  
+
+
+
+
+  <h2>Start Pop Up with this Button</h2>
+
+ 
+  <button id="myBtn">Open Modal</button>
+  
+
+  <div id="myModal" class="modal">
+  
+    
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <p>Some text in the Modal..</p>
+    </div>
+  
+  </div>
+  
+  <script>
+  // Get the modal
+  var modal = document.getElementById("myModal");
+  
+  // Get the button that opens the modal
+  var btn = document.getElementById("myBtn");
+  
+  // Get the <span> element that closes the modal
+  var span = document.getElementsByClassName("close")[0];
+  
+  // When the user clicks the button, open the modal 
+  btn.onclick = function() {
+    modal.style.display = "block";
+  }
+  
+  // When the user clicks on <span> (x), close the modal
+  span.onclick = function() {
+    modal.style.display = "none";
+  }
+  
+  // When the user clicks anywhere outside of the modal, close it
+  window.onclick = function(event) {
+    if (event.target == modal) {
+      modal.style.display = "none";
+    }
+  }
+  </script>
+
+
+
+<div id="cookiedingsbums"><div>
+  <span>Ja, auch diese Webseite wurde im Auftrag der FH Joanneum GmbH erstellt. </span> 
+  <a href="http://www.fh-joanneum.at">Hier erfahrt ihr alles über die FH Joanneum</a></div>
+ <span id="cookiedingsbumsCloser" onclick="document.cookie = 'hidecookiedingsbums=1;path=/';jQuery('#cookiedingsbums').slideUp()">&#10006;</span>
+</div>
+
+
+  <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.min.js">
+  if(document.cookie.indexOf('hidecookiedingsbums=1') != -1){
+   jQuery('#cookiedingsbums').hide();
+  }
+  else{
+  jQuery('#cookiedingsbums').prependTo('body');
+  jQuery('#cookiedingsbumsCloser').show();
+  }
+ </script>
+
 </main>
 
 {{ partial "footer.html" . }}
