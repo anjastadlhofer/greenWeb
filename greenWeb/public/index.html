@@ -40,7 +40,7 @@
 
   <ul class="nav-links">
     
-    <li><a href="./about/">About</a></li>
+    <li><a href="./about/">About the project</a></li>
     
     <li><a href="./impressum/">Impressum</a></li>
     
@@ -131,19 +131,16 @@
     
   </div>
 
+  <h5>Start Pop Up with this Button</h5>
+  <button id="myBtn">Click to see a wonderful message!</button>
+  
 
-  <h2>Start Pop Up with this Button</h2>
-
-  
-  <button id="myBtn">Open Modal</button>
-  
-  
   <div id="myModal" class="modal">
   
     
     <div class="modal-content">
       <span class="close">&times;</span>
-      <p>Some text in the Modal..</p>
+      <p>It's that easy!</p>
     </div>
   
   </div>
@@ -174,14 +171,25 @@
       modal.style.display = "none";
     }
   }
-
-  function dokumentVollständigGeladen() {
-  window.alert('Dokument wurde vollständig geladen!')
-}
-window.addEventListener('load', dokumentVollständigGeladen, false);
   </script>
 
 
+<div id="cookiedingsbums"><div>
+  <span>Ja, auch diese Webseite wurde im Auftrag der FH Joanneum GmbH erstellt. </span> 
+  <a href="http://www.fh-joanneum.at">Hier erfahrt ihr alles über die FH Joanneum</a></div>
+ <span id="cookiedingsbumsCloser" onclick="document.cookie = 'hidecookiedingsbums=1;path=/';jQuery('#cookiedingsbums').slideUp()">&#10006;</span>
+</div>
+
+
+  <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.min.js">
+  if(document.cookie.indexOf('hidecookiedingsbums=1') != -1){
+   jQuery('#cookiedingsbums').hide();
+  }
+  else{
+  jQuery('#cookiedingsbums').prependTo('body');
+  jQuery('#cookiedingsbumsCloser').show();
+  }
+ </script>
 
 </main>
 

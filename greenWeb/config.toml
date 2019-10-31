@@ -13,7 +13,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section", "404"]
     
 
 [[menu.main]]
-    name = "About"
+    name = "About the project"
     url = "/about/"
 [[menu.main]]
     name = "Impressum"
